@@ -1,2 +1,2 @@
-# BYI-competition
-BYI(kaggle competition)
+# BYU-competition
+BYU(kaggle competition)
